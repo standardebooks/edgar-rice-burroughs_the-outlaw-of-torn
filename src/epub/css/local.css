@@ -2,7 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 blockquote header{
-	margin-bottom: 1em;
 	text-align: initial;
 }
 
