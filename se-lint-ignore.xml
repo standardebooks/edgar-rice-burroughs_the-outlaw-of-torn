@@ -24,10 +24,4 @@
 			<reason>Period is not part of initials in this case.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-18.xhtml">
-		<ignore>
-			<code>y-013</code>
-			<reason>Quotes are nested and punctuation is within outer quote.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
