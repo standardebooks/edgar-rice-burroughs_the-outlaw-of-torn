@@ -48,7 +48,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/369</dc:source>
 		<dc:source>https://archive.org/details/bwb_S0-BGQ-492</dc:source>
-		<meta property="se:word-count">65789</meta>
+		<meta property="se:word-count">65443</meta>
 		<meta property="se:reading-ease.flesch">72.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Outlaw_of_Torn</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-outlaw-of-torn</meta>
