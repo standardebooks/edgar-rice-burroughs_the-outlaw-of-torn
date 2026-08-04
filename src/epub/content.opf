@@ -41,7 +41,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A powerful knight terrorizes the aristocracy and protects the poor in 13th century England.</dc:abstract>
+		<meta property="schema:abstract">A powerful knight terrorizes the aristocracy and protects the poor in 13th century England.</meta>
 		<dc:description>
 			&lt;p&gt;In 13th century England, Norman of Torn is trained by his father, a French swordmaster with a grudge, in the art of swordsmanship—and to hate the English. He also befriends the priest Father Claude, who teaches him to respect the poor and the weak. As he comes of age, he becomes known as the “Devil of Torn,” the powerful leader of a band of outlaws that terrorizes the aristocracy and protects the poor. But as his legend grows and he falls in love with the daughter of an Earl, he finds himself increasingly conflicted about his actions.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Outlaw of Torn&lt;/i&gt; is one of the only two historical novels &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs&lt;/a&gt; wrote, and the only one published during his lifetime.&lt;/p&gt;
